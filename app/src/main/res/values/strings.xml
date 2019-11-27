@@ -1,0 +1,18 @@
+<resources>
+        <string name="app_name">sikika2</string>
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="login">Login</string>
+        <string name = "error_message_email">Enter valid Email</string>
+        <string name="error_message_password">Enter Password</string>
+        <string name = "text_not_member">No account yet?create one</string>
+        <string name="text_member_already">Already a member?log in</string>
+        <string name="create_account">Create Account</string>
+        <string name="error_message_name">Enter full name</string>
+        <string name = "success_message">Account created successfully</string>
+        <string name="error_email_exists">Email Already exists</string>
+        <string name="repeat_password">RepeatPassword</string>
+        <string name="error_password_match">Password does not match</string>
+        <string name="error_email_password">Wrong email or password</string>
+
+</resources>
